@@ -1,0 +1,58 @@
+01:47:16 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+Info: Nothing to build for array5-4
+Info: Nothing to build for array6-2
+01:51:20 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+01:52:02 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+01:54:47 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+01:58:36 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+Info: Nothing to build for array6-2
+01:59:48 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+Info: Nothing to build for array6-2
+02:00:59 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+02:05:07 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+Info: Nothing to build for array6-2
+02:06:24 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+..\src\array6-2.c: In function 'main':
+..\src\array6-2.c:37:17: error: 'numeros' undeclared (first use in this function)
+  ordenNegativos(numeros, TAM);
+                 ^~~~~~~
+..\src\array6-2.c:37:17: note: each undeclared identifier is reported only once for each function it appears in
+02:06:32 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+Info: Nothing to build for array6-2
+02:08:38 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
+02:09:22 **** Incremental Build of configuration Debug for project array6-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array6-2.o" "..\\src\\array6-2.c" 
+gcc -o array6-2.exe "src\\array6-2.o" 
