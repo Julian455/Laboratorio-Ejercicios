@@ -62,7 +62,7 @@ int numeroMaximo(int numeros[], int logitud,int *resultado)
 
 	for(int i=0;i<logitud;i++)
 	{
-	  if(flag==0 || numeros[i]>maximo )
+	  if(flag==0 || numeros[i]>maximo)
 	  {
 		  maximo= numeros[i];//los numero se copian de derecha a izquierda
 		  flag=1;
